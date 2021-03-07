@@ -11,7 +11,7 @@ QT_END_NAMESPACE
 #include <QTableWidgetItem>
 #include <QMessageBox>
 #include <functional>
-#include "painter.h"
+
 #include <QTimer>
 #include <QPainter>
 #include <QPaintEvent>
