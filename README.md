@@ -1,4 +1,5 @@
-# Function_Graph
+# Построение графиков функций
+## Function_Graph
 QTimer, QMouseEvent (with the stop key pressed, can view the data).
 
 ![alt text](icon/data.png)
